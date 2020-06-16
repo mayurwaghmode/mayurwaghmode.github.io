@@ -99,6 +99,8 @@ body {
   background-color: #31b0d5;
   display: flex;
   width: 100%;
+  flex-direction: column;
+
 
 }
 
